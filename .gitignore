@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
+pip-wheel-metadata/
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env / secrets
+.env
+*.env
+.env.*
+secrets.*
+*.key
+*.pem
+
+# Logs
+*.log
+logs/
+
+# Data artifacts
+data/raw/
+data/indexes/
+data/processed/*.pkl
+data/processed/*.npy
+
+# Experiment outputs
+experiments/runs/
+*.sqlite
+*.db
+
+# Models / cache
+.cache/
+models/
+ollama/
+sentence_transformers/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Office temp
+~$*.docx
+~$*.pptx

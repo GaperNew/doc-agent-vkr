@@ -1,0 +1,11 @@
+beautifulsoup4
+markdownify
+requests
+rank-bm25
+numpy
+pandas
+tqdm
+pydantic
+sentence-transformers
+scikit-learn
+python-dotenv

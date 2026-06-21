@@ -1,0 +1,60 @@
+{
+  "source_name": "fastapi",
+  "pages": [
+    {
+      "doc_id": "fastapi_tutorial_first_steps",
+      "title": "First Steps",
+      "url": "https://fastapi.tiangolo.com/tutorial/first-steps/"
+    },
+    {
+      "doc_id": "fastapi_tutorial_path_params",
+      "title": "Path Parameters",
+      "url": "https://fastapi.tiangolo.com/tutorial/path-params/"
+    },
+    {
+      "doc_id": "fastapi_tutorial_query_params",
+      "title": "Query Parameters",
+      "url": "https://fastapi.tiangolo.com/tutorial/query-params/"
+    },
+    {
+      "doc_id": "fastapi_tutorial_request_body",
+      "title": "Request Body",
+      "url": "https://fastapi.tiangolo.com/tutorial/body/"
+    },
+    {
+      "doc_id": "fastapi_tutorial_dependencies",
+      "title": "Dependencies",
+      "url": "https://fastapi.tiangolo.com/tutorial/dependencies/"
+    },
+    {
+      "doc_id": "fastapi_tutorial_cors",
+      "title": "CORS",
+      "url": "https://fastapi.tiangolo.com/tutorial/cors/"
+    },
+    {
+      "doc_id": "fastapi_tutorial_security_first_steps",
+      "title": "Security First Steps",
+      "url": "https://fastapi.tiangolo.com/tutorial/security/first-steps/"
+    },
+    {
+      "doc_id": "fastapi_tutorial_middleware",
+      "title": "Middleware",
+      "url": "https://fastapi.tiangolo.com/tutorial/middleware/"
+    },
+    {
+      "doc_id": "fastapi_advanced_middleware",
+      "title": "Advanced Middleware",
+      "url": "https://fastapi.tiangolo.com/advanced/middleware/"
+    },
+    {
+      "doc_id": "fastapi_deployment_docker",
+      "title": "Deployment with Docker",
+      "url": "https://fastapi.tiangolo.com/deployment/docker/"
+    },
+    {
+      "doc_id": "fastapi_tutorial_testing",
+      "title": "Testing",
+      "url": "https://fastapi.tiangolo.com/tutorial/testing/"
+    }
+  ]
+}
