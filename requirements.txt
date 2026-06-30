@@ -9,3 +9,4 @@ pydantic
 sentence-transformers
 scikit-learn
 python-dotenv
+streamlit
